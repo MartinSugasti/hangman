@@ -1,5 +1,6 @@
 require_relative 'game'
 require_relative 'display'
+require_relative 'database'
 
 Display.welcome
 
@@ -17,3 +18,4 @@ loop do
 end
 
 Display.conclusion
+Database.restore_saved_files

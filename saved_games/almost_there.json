@@ -1,5 +1,1 @@
-{
-  "secret_word": "itinerancy",
-  "correct_letters": ["i", "n", "a", "y", "t", "e"],
-  "wrong_letters": ["s", "o"]
-}
+{"secret_word":"itinerancy","correct_letters":["i","n","a","y","t","e"],"wrong_letters":["s","o"]}
