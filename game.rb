@@ -49,7 +49,7 @@ class Game
       print '.'
     end
 
-    puts " The computer choose the word to guess, it's #{word.length} length. #{word}"
+    puts " The computer choose the word to guess, it's #{word.length} length."
     word
   end
 
