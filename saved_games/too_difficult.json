@@ -1,0 +1,5 @@
+{
+  "secret_word": "zydeco",
+  "correct_letters": ["e", "d", "o"],
+  "wrong_letters": ["a", "i", "s", "t", "w", "n"]
+}
