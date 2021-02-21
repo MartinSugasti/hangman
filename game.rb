@@ -1,7 +1,6 @@
-require_relative 'string_effects.rb'
-require_relative 'player.rb'
+require_relative 'string_effects'
+require_relative 'player'
 require 'json'
-require 'pry'
 
 class Game
   MAX_MISSINGS = 8
